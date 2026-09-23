@@ -1,0 +1,4 @@
+# Here to fix the Python version repo2docker will choose.
+# This is what the default cryocloud image does.
+dependencies:
+  - python=3.14
